@@ -1,8 +1,31 @@
-# Online Dijital CV Scripti 
+# Online Digital CV Script
 
-# <a href="http://cv.turklojen.com/">DEMO</a>
+### Features
+
+### - Update Information
+### - Add Skill
+### - Delete Skill
+### - Edit Skill
+### - Add Language
+### - Delete Language
+### - Edit Language
+### - Add School
+### - Delete School
+### - Edit School
+### - Add Project
+### - Delete Project
+### - Edit Project
+### - Add Job
+### - Delete Job
+### - Edit Job
+### - Edit Site Settings
+### - Add Music - Change Theme Color
+### - Update Admin Information
+
+# Online CV Scripti 
 
 ### Özellikler
+
 ### - Bilgi Güncelle
 ### - Beceri Ekle
 ### - Beceri Sil
